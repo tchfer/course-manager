@@ -6,4 +6,5 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-![Alt text](\course-manager\src\assets\images\ScS.jpg?raw=true "Screenshot")
+## Here's a quick glance at how it looks!
+![Alt text](https://github.com/tchfer/course-manager/blob/main/src/assets/images/ScS.jpg)
